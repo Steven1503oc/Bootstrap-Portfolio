@@ -150,6 +150,9 @@ body {
   .port-image {
     margin: 20px auto;
   }
+  .rotate {
+    transform: rotate(90deg)   
+  }
   /* END PORTFOLIO PAGE */
   
   
